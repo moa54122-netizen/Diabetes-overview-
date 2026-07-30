@@ -39,11 +39,6 @@ Built an interactive dashboard displaying:
 - A higher number of pregnancies is associated with a higher likelihood of diabetes
 - 70% of individuals with high glucose levels are diagnosed with diabetes
 
-## How to Use
-1. Download the Power BI file (`.pbix`) from this repository
-2. Open it using Power BI Desktop
-3. Explore the interactive dashboard
-
 ## Project Files
 - `Diabetes_Dataset.csv` — Raw dataset
 - `Diabetes_Analysis.pbix` — Full Power BI file with dashboard
